@@ -1,9 +1,12 @@
 <h1>Encryption/Decryption with Bash</h1>
 
 <h2>Description</h2>
-This project addresses the protection of sensitive healthcare information, specifically focusing on safeguarding personally identifiable information (PII) and protected health information (PHI) using encryption. A Bash script was developed to encrypt files containing healthcare data, ensuring compliance with privacy regulations such as HIPAA. The script secures sensitive documents by transforming them into an unreadable format during transit, with only authorized users able to decrypt the files using a valid password.
+
+This project examines the financial performance between J.P. Morgan Chase Bank and Bank of America, focusing on both qualitative and quantitative aspects. Data mining techniques were used to gather and analyze information from multiple sources, including the companies' annual 10-K reports, Yahoo and or Google Finance. Tools such as Excel were used to calculate various financial ratios, including revenue productivity, comprehensive efficiency, operating efficiency and etc. The Excel screenshots illustrate how the data was input and visualized for concise interpretation and comparison prior to purchasing stocks.
+
 <br /><br />
-To ensure reliable security, the script enforces strong password protocols and limits login attempts to prevent unauthorized access. It also logs user activities, providing an audit trail for tracking access, a key requirement in healthcare data protection. The implementation of AES-256 encryption further fortifies the system, making healthcare information significantly less vulnerable to data breaches. This solution demonstrates the script’s effectiveness in creating a secure environment for handling ePHI in healthcare.
+
+The outcome of this analysis revealed that Chase Bank outperformed Bank of America in key areas such as revenue productivity and comprehensive efficiency, with Chase’s financial strength continuing to grow year over year. However, Chase’s debt management raised concerns, as it showed a heavier reliance on debt compared to its competitor. These findings indicate that, while Chase Bank demonstrates strong performance, improvements in cash flow and debt management could further enhance its competitive standing in the banking sector.
 <br />
 
 
