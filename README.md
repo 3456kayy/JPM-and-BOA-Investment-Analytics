@@ -10,20 +10,15 @@ To ensure reliable security, the script enforces strong password protocols and l
 <h2>Languages and Utilities Used</h2>
 
 - <b>Excel</b>
-- <b></b>
+- <b>Annual 10-k Reports</b>
 
 
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b>
-- <b>Ubuntu Linux</b>
 
 <h2>Walk-through:</h2>
 
 The project is attached as a PDF file for you to review, which contains the quanitative and qulitative reasearch for both companies: <br/>
 You can [view the PDF file here](encryptdecrypt.docx).
-<br />
-<br />
-This output demonstrates the program's ability to successfully encrypt a document and provide appropriate error messages to the user when necessary. Output:  <br/>
-<img src="https://imgur.com/UKKatM3.png" height="80%" width="80%"/>
 <br />
