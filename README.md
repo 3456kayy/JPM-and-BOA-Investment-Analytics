@@ -1,4 +1,4 @@
-<h1>Encryption/Decryption with Bash</h1>
+<h1>Stock Investment Analytics</h1>
 
 <h2>Description</h2>
 
